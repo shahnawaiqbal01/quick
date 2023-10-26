@@ -1,3 +1,3 @@
 # quick
 html
-https://github.com/shahnawaiqbal01/quick
+ https://shahnawaiqbal01.github.io/quick/
